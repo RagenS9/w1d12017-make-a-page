@@ -1,5 +1,30 @@
 body {
-    background: #C0D6DF;
-    color: #4F6D7A;
+    background-image: linear-gradient(#4E5565, #D7D9DC);
     text-align: center;
+    font-family: "veranda" sans-serif;
+    margin: 0px 180px 60px 180px;
+}
+
+th, td {
+    padding: 10px;
+}
+table {
+    border-spacing: 5px;
+}
+table#t01 {
+    width: 60%; 
+    background-color: #B0B3BA;
+}
+caption {
+    font-size: 150%;
+}
+#firsth1 {
+    color: #273043;
+    font-size: 300%;
+}
+h2 {
+    color: #3A4254;
+}
+h1 {
+    color: #202837;
 }
